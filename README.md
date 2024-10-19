@@ -50,7 +50,9 @@ My journey in information technology has led me to develop a passion for cyberse
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-
+<img
+src="https://img.shields.io/badge/-ITIL%20V4%20Foundations-0078D4?style=for-the-badge&logo=ITIL&logoColor=white" /> 
+    
 </div>
 
 ## Projects
